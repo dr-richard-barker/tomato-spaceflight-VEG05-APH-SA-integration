@@ -10,6 +10,7 @@ MODULES = [
     '04_figures.py',                 # Fig 1-4
     '05_celltype_localization.py',   # Fig 6
     '06_schematic.py',               # Fig 1 (concept schematic)
+    '07_robustness.py',              # permutation + bootstrap support for the headline concordance
     # '02_joint_physiospace.py'      # optional: re-projection using the sparse 116-gene reference
 ]
 for m in MODULES:

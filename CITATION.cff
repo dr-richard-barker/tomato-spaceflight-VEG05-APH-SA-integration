@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this software or its results, please cite it as below."
+title: "Cross-mission integration of tomato spaceflight transcriptomes: spaceflight resembles a salicylic-acid-deficient state"
+abstract: >-
+  Reproducible meta-integration of two ISS tomato RNA-seq studies (OSD-767 light x
+  spaceflight; APH MoneyMaker/NahG salicylic-acid x spaceflight). Gene-level leaf
+  responses do not replicate across cultivar/chamber/mission, but the stress-pattern
+  (Plant PhysioSpace) response is conserved, and the spaceflight signature matches the
+  SA-deficient (NahG) state (OSD-767 root vs APH NahG Pearson r = 0.78); SA signalling
+  acts as the conserved causal buffer.
+authors:
+  - family-names: Barker
+    given-names: Richard
+    affiliation: "Purdue University, West Lafayette, IN, USA"
+version: "1.0.0"
+date-released: "2026-06-26"
+license: MIT
+repository-code: "https://github.com/dr-richard-barker/tomato-spaceflight-VEG05-APH-SA-integration"
+keywords:
+  - spaceflight
+  - tomato
+  - Solanum lycopersicum
+  - salicylic acid
+  - NahG
+  - transcriptomics
+  - PhysioSpace
+  - biotic stress
+  - ISS
+  - meta-analysis

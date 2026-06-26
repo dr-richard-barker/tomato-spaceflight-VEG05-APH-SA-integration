@@ -1,0 +1,5 @@
+pair,n_axes,pearson_r,perm_p_2sided,boot95_lo,boot95_hi
+OSD_root vs APH_NahG,15,0.778,0.0004,0.392,0.93
+OSD_root vs APH_MM,15,-0.154,0.5922,-0.495,0.251
+OSD_leaf vs APH_NahG,15,0.646,0.0092,0.418,0.852
+OSD_root vs APH_Mock,15,0.664,0.0071,0.322,0.914

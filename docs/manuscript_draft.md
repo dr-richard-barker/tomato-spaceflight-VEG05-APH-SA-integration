@@ -99,12 +99,16 @@ underscoring that the conserved axis is organ- as well as pattern-specific.
 
 ### 2.3 The spaceflight signature matches the SA-deficient state
 The OSD-767 spaceflight stress-pattern signature correlated strongly with the APH
-**SA-deficient (*NahG*)** signature (Pearson r = 0.78, p = 0.001; Spearman 0.75) but showed no
-relationship to wild-type MoneyMaker (r = −0.15). Ordering the APH groups by SA tone revealed
-a monotonic gradient: similarity to the spaceflight signature rose steadily as SA fell — from
-SA-treated (−0.20) and wild-type (−0.15) through the pooled (+0.38) and mock (+0.66) groups to
-*NahG* (+0.78; Fig. 2). In other words, the less SA present in the experimental system, the
-more closely it resembled spaceflight.
+**SA-deficient (*NahG*)** signature (Pearson r = 0.78; label-permutation p = 0.0004; bootstrap
+95% CI 0.39–0.93) but showed no relationship to wild-type MoneyMaker (r = −0.15, permutation
+p = 0.59). The correlation is not an artefact of the 15-axis dimensionality: it survives both
+axis-label permutation and paired axis bootstrapping, while the wild-type comparison — run
+identically — remains null, exactly the asymmetry the hypothesis predicts. Ordering the APH
+groups by SA tone revealed a monotonic gradient: similarity to the spaceflight signature rose
+steadily as SA fell — from SA-treated (−0.20) and wild-type (−0.15) through the pooled (+0.38)
+and mock (+0.66) groups to *NahG* (+0.78; Spearman trend ρ = 1.0 across the four ordered
+groups; Fig. 2). In other words, the less SA present in the experimental system, the more
+closely it resembled spaceflight.
 
 ![Figure 2](../results/figures/Fig2_SA_status_gradient.png)
 
