@@ -1,0 +1,2 @@
+shared_genes,osd767_DEGs,aph_MM_DEGs,spearman_all,spearman_all_p,pearson_all,sign_concordance_all,spearman_DEGunion,sign_concordance_DEGunion,shared_DEGs_bothsig,conserved_core_samesign
+16516,527,105,0.048,4.734115244544362e-10,0.022,0.514,-0.021,0.496,9,4

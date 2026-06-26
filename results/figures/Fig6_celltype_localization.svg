@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="675.43625pt" height="327.094594pt" viewBox="0 0 675.43625 327.094594" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-06-26T08:01:27.044880</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.0, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 327.094594 
+L 675.43625 327.094594 
+L 675.43625 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 79.41375 289.893891 
+L 295.805 289.893891 
+L 295.805 48.338813 
+L 79.41375 48.338813 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 147.4268 278.914114 
+L 89.249716 278.914114 
+L 89.249716 232.683477 
+L 147.4268 232.683477 
+z
+" clip-path="url(#pc5e3e25d05)" style="fill: #2e6f95"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 147.4268 221.125818 
+L 184.647561 221.125818 
+L 184.647561 174.895181 
+L 147.4268 174.895181 
+z
+" clip-path="url(#pc5e3e25d05)" style="fill: #2e6f95"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 147.4268 163.337522 
+L 184.647561 163.337522 
+L 184.647561 117.106885 
+L 147.4268 117.106885 
+z
+" clip-path="url(#pc5e3e25d05)" style="fill: #2e6f95"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 147.4268 105.549226 
+L 285.969034 105.549226 
+L 285.969034 59.318589 
+L 147.4268 59.318589 
+z
+" clip-path="url(#pc5e3e25d05)" style="fill: #2e6f95"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <defs>
+       <path id="m59c4324f2a" d="M 0 0 
+L 0 3.5 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m59c4324f2a" x="93.319685" y="289.893891" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans', sans-serif; text-anchor: middle" x="93.319685" y="304.491547" transform="rotate(-0 93.319685 304.491547)">−0.5</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2">
+      <g>
+       <use xlink:href="#m59c4324f2a" x="147.4268" y="289.893891" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans', sans-serif; text-anchor: middle" x="147.4268" y="304.491547" transform="rotate(-0 147.4268 304.491547)">0.0</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_3">
+      <g>
+       <use xlink:href="#m59c4324f2a" x="201.533916" y="289.893891" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans', sans-serif; text-anchor: middle" x="201.533916" y="304.491547" transform="rotate(-0 201.533916 304.491547)">0.5</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_4">
+      <g>
+       <use xlink:href="#m59c4324f2a" x="255.641031" y="289.893891" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans', sans-serif; text-anchor: middle" x="255.641031" y="304.491547" transform="rotate(-0 255.641031 304.491547)">1.0</text>
+     </g>
+    </g>
+    <g id="text_5">
+     <text style="font-size: 9px; font-family: 'DejaVu Sans', sans-serif; text-anchor: middle" x="187.609375" y="317.732484" transform="rotate(-0 187.609375 317.732484)">Cell-type PhysioScore</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_5">
+      <defs>
+       <path id="m2d1d8e4470" d="M 0 0 
+L -3.5 0 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m2d1d8e4470" x="79.41375" y="255.798796" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_6">
+      <text style="font-size: 8px; font-family: 'DejaVu Sans', sans-serif; text-anchor: end" x="72.41375" y="258.838171" transform="rotate(-0 72.41375 258.838171)">Epidermis</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_6">
+      <g>
+       <use xlink:href="#m2d1d8e4470" x="79.41375" y="198.0105" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_7">
+      <text style="font-size: 8px; font-family: 'DejaVu Sans', sans-serif; text-anchor: end" x="72.41375" y="201.049875" transform="rotate(-0 72.41375 201.049875)">cond_Cortex</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_7">
+      <g>
+       <use xlink:href="#m2d1d8e4470" x="79.41375" y="140.222203" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_8">
+      <text style="font-size: 8px; font-family: 'DejaVu Sans', sans-serif; text-anchor: end" x="72.41375" y="143.261578" transform="rotate(-0 72.41375 143.261578)">cond_Exodermis</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_8">
+      <g>
+       <use xlink:href="#m2d1d8e4470" x="79.41375" y="82.433907" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_9">
+      <text style="font-size: 8px; font-family: 'DejaVu Sans', sans-serif; text-anchor: end" x="72.41375" y="85.473282" transform="rotate(-0 72.41375 85.473282)">Mesophyll</text>
+     </g>
+    </g>
+   </g>
+   <g id="line2d_9">
+    <path d="M 147.4268 289.893891 
+L 147.4268 48.338813 
+" clip-path="url(#pc5e3e25d05)" style="fill: none; stroke: #bbbbbb; stroke-width: 0.6; stroke-linecap: square"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 79.41375 289.893891 
+L 79.41375 48.338813 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 79.41375 289.893891 
+L 295.805 289.893891 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_10">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #2e6f95" x="187.609375" y="42.338813" transform="rotate(-0 187.609375 42.338813)">OSD-767 — Biotic.Hormone</text>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g id="patch_9">
+    <path d="M 451.845 289.893891 
+L 668.23625 289.893891 
+L 668.23625 48.338813 
+L 451.845 48.338813 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 536.551165 278.914114 
+L 461.680966 278.914114 
+L 461.680966 258.950885 
+L 536.551165 258.950885 
+z
+" clip-path="url(#p88a021423b)" style="fill: #c24b3a"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 536.551165 253.960077 
+L 486.968523 253.960077 
+L 486.968523 233.996848 
+L 536.551165 233.996848 
+z
+" clip-path="url(#p88a021423b)" style="fill: #c24b3a"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 536.551165 229.00604 
+L 499.350364 229.00604 
+L 499.350364 209.042811 
+L 536.551165 209.042811 
+z
+" clip-path="url(#p88a021423b)" style="fill: #c24b3a"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 536.551165 204.052003 
+L 504.274696 204.052003 
+L 504.274696 184.088774 
+L 536.551165 184.088774 
+z
+" clip-path="url(#p88a021423b)" style="fill: #c24b3a"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 536.551165 179.097966 
+L 547.296689 179.097966 
+L 547.296689 159.134737 
+L 536.551165 159.134737 
+z
+" clip-path="url(#p88a021423b)" style="fill: #c24b3a"/>
+   </g>
+   <g id="patch_15">
+    <path d="M 536.551165 154.143929 
+L 564.426632 154.143929 
+L 564.426632 134.1807 
+L 536.551165 134.1807 
+z
+" clip-path="url(#p88a021423b)" style="fill: #c24b3a"/>
+   </g>
+   <g id="patch_16">
+    <path d="M 536.551165 129.189892 
+L 616.771074 129.189892 
+L 616.771074 109.226663 
+L 536.551165 109.226663 
+z
+" clip-path="url(#p88a021423b)" style="fill: #c24b3a"/>
+   </g>
+   <g id="patch_17">
+    <path d="M 536.551165 104.235855 
+L 623.636853 104.235855 
+L 623.636853 84.272626 
+L 536.551165 84.272626 
+z
+" clip-path="url(#p88a021423b)" style="fill: #c24b3a"/>
+   </g>
+   <g id="patch_18">
+    <path d="M 536.551165 79.281818 
+L 658.400284 79.281818 
+L 658.400284 59.318589 
+L 536.551165 59.318589 
+z
+" clip-path="url(#p88a021423b)" style="fill: #c24b3a"/>
+   </g>
+   <g id="matplotlib.axis_3">
+    <g id="xtick_5">
+     <g id="line2d_10">
+      <g>
+       <use xlink:href="#m59c4324f2a" x="463.017743" y="289.893891" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_11">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans', sans-serif; text-anchor: middle" x="463.017743" y="304.491547" transform="rotate(-0 463.017743 304.491547)">−1.0</text>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_11">
+      <g>
+       <use xlink:href="#m59c4324f2a" x="499.784454" y="289.893891" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_12">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans', sans-serif; text-anchor: middle" x="499.784454" y="304.491547" transform="rotate(-0 499.784454 304.491547)">−0.5</text>
+     </g>
+    </g>
+    <g id="xtick_7">
+     <g id="line2d_12">
+      <g>
+       <use xlink:href="#m59c4324f2a" x="536.551165" y="289.893891" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_13">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans', sans-serif; text-anchor: middle" x="536.551165" y="304.491547" transform="rotate(-0 536.551165 304.491547)">0.0</text>
+     </g>
+    </g>
+    <g id="xtick_8">
+     <g id="line2d_13">
+      <g>
+       <use xlink:href="#m59c4324f2a" x="573.317875" y="289.893891" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_14">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans', sans-serif; text-anchor: middle" x="573.317875" y="304.491547" transform="rotate(-0 573.317875 304.491547)">0.5</text>
+     </g>
+    </g>
+    <g id="xtick_9">
+     <g id="line2d_14">
+      <g>
+       <use xlink:href="#m59c4324f2a" x="610.084586" y="289.893891" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_15">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans', sans-serif; text-anchor: middle" x="610.084586" y="304.491547" transform="rotate(-0 610.084586 304.491547)">1.0</text>
+     </g>
+    </g>
+    <g id="xtick_10">
+     <g id="line2d_15">
+      <g>
+       <use xlink:href="#m59c4324f2a" x="646.851296" y="289.893891" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_16">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans', sans-serif; text-anchor: middle" x="646.851296" y="304.491547" transform="rotate(-0 646.851296 304.491547)">1.5</text>
+     </g>
+    </g>
+    <g id="text_17">
+     <text style="font-size: 9px; font-family: 'DejaVu Sans', sans-serif; text-anchor: middle" x="560.040625" y="317.732484" transform="rotate(-0 560.040625 317.732484)">Cell-type flight delta</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_4">
+    <g id="ytick_5">
+     <g id="line2d_16">
+      <g>
+       <use xlink:href="#m2d1d8e4470" x="451.845" y="268.9325" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_18">
+      <text style="font-size: 8px; font-family: 'DejaVu Sans', sans-serif; text-anchor: end" x="444.845" y="271.971875" transform="rotate(-0 444.845 271.971875)">Root (stele/endodermis)</text>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_17">
+      <g>
+       <use xlink:href="#m2d1d8e4470" x="451.845" y="243.978463" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_19">
+      <text style="font-size: 8px; font-family: 'DejaVu Sans', sans-serif; text-anchor: end" x="444.845" y="247.017838" transform="rotate(-0 444.845 247.017838)">Companion cells (phloem loading)</text>
+     </g>
+    </g>
+    <g id="ytick_7">
+     <g id="line2d_18">
+      <g>
+       <use xlink:href="#m2d1d8e4470" x="451.845" y="219.024426" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_20">
+      <text style="font-size: 8px; font-family: 'DejaVu Sans', sans-serif; text-anchor: end" x="444.845" y="222.063801" transform="rotate(-0 444.845 222.063801)">Mesophyll (photosynthesis)</text>
+     </g>
+    </g>
+    <g id="ytick_8">
+     <g id="line2d_19">
+      <g>
+       <use xlink:href="#m2d1d8e4470" x="451.845" y="194.070389" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_21">
+      <text style="font-size: 8px; font-family: 'DejaVu Sans', sans-serif; text-anchor: end" x="444.845" y="197.109764" transform="rotate(-0 444.845 197.109764)">Immune response hubs</text>
+     </g>
+    </g>
+    <g id="ytick_9">
+     <g id="line2d_20">
+      <g>
+       <use xlink:href="#m2d1d8e4470" x="451.845" y="169.116352" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_22">
+      <text style="font-size: 8px; font-family: 'DejaVu Sans', sans-serif; text-anchor: end" x="444.845" y="172.155727" transform="rotate(-0 444.845 172.155727)">Meristem (shoot apex)</text>
+     </g>
+    </g>
+    <g id="ytick_10">
+     <g id="line2d_21">
+      <g>
+       <use xlink:href="#m2d1d8e4470" x="451.845" y="144.162315" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_23">
+      <text style="font-size: 8px; font-family: 'DejaVu Sans', sans-serif; text-anchor: end" x="444.845" y="147.20169" transform="rotate(-0 444.845 147.20169)">Vascular tissue (phloem/xylem)</text>
+     </g>
+    </g>
+    <g id="ytick_11">
+     <g id="line2d_22">
+      <g>
+       <use xlink:href="#m2d1d8e4470" x="451.845" y="119.208278" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_24">
+      <text style="font-size: 8px; font-family: 'DejaVu Sans', sans-serif; text-anchor: end" x="444.845" y="122.247653" transform="rotate(-0 444.845 122.247653)">Trichomes (secretory)</text>
+     </g>
+    </g>
+    <g id="ytick_12">
+     <g id="line2d_23">
+      <g>
+       <use xlink:href="#m2d1d8e4470" x="451.845" y="94.254241" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_25">
+      <text style="font-size: 8px; font-family: 'DejaVu Sans', sans-serif; text-anchor: end" x="444.845" y="97.293616" transform="rotate(-0 444.845 97.293616)">Guard cells (stomata)</text>
+     </g>
+    </g>
+    <g id="ytick_13">
+     <g id="line2d_24">
+      <g>
+       <use xlink:href="#m2d1d8e4470" x="451.845" y="69.300204" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_26">
+      <text style="font-size: 8px; font-family: 'DejaVu Sans', sans-serif; text-anchor: end" x="444.845" y="72.339579" transform="rotate(-0 444.845 72.339579)">Epidermis (trichome/pavement)</text>
+     </g>
+    </g>
+   </g>
+   <g id="line2d_25">
+    <path d="M 536.551165 289.893891 
+L 536.551165 48.338813 
+" clip-path="url(#p88a021423b)" style="fill: none; stroke: #bbbbbb; stroke-width: 0.6; stroke-linecap: square"/>
+   </g>
+   <g id="patch_19">
+    <path d="M 451.845 289.893891 
+L 451.845 48.338813 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_20">
+    <path d="M 451.845 289.893891 
+L 668.23625 289.893891 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_27">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #c24b3a" x="560.040625" y="42.338813" transform="rotate(-0 560.040625 42.338813)">APH — BioMone (biotic+hormone)</text>
+   </g>
+  </g>
+  <g id="text_28">
+   <text style="font-weight: 700; font-size: 12px; font-family: 'DejaVu Sans', sans-serif; text-anchor: middle" x="337.03625" y="16.318125" transform="rotate(-0 337.03625 16.318125)">Defense response localizes to outer / epidermal cell types in both studies</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pc5e3e25d05">
+   <rect x="79.41375" y="48.338813" width="216.39125" height="241.555078"/>
+  </clipPath>
+  <clipPath id="p88a021423b">
+   <rect x="451.845" y="48.338813" width="216.39125" height="241.555078"/>
+  </clipPath>
+ </defs>
+</svg>

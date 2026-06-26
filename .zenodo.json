@@ -1,0 +1,20 @@
+{
+  "title": "Cross-mission integration of tomato spaceflight transcriptomes: spaceflight resembles a salicylic-acid-deficient state",
+  "description": "Reproducible meta-integration of two ISS tomato RNA-seq studies (OSD-767 light x spaceflight; APH MoneyMaker/NahG SA x spaceflight). Shows that gene-level leaf responses do not replicate across cultivar/chamber/mission, but the stress-pattern (Plant PhysioSpace) response is conserved, and the spaceflight signature matches the SA-deficient (NahG) state (OSD-767 root vs APH NahG Pearson r = 0.78), with SA signalling acting as the causal buffer.",
+  "upload_type": "software",
+  "access_right": "open",
+  "license": "MIT",
+  "version": "1.0.0",
+  "keywords": [
+    "spaceflight", "tomato", "Solanum lycopersicum", "salicylic acid", "NahG",
+    "transcriptomics", "PhysioSpace", "biotic stress", "ISS", "meta-analysis",
+    "OSD-767", "Advanced Plant Habitat"
+  ],
+  "creators": [
+    { "name": "Barker, Richard", "affiliation": "Purdue University" }
+  ],
+  "related_identifiers": [
+    { "relation": "isDerivedFrom", "identifier": "https://osdr.nasa.gov/bio/repo/data/studies/OSD-767", "scheme": "url" },
+    { "relation": "isDerivedFrom", "identifier": "APH tomato spaceflight RNA-seq study (GeneLab OSD-# to confirm)", "scheme": "other" }
+  ]
+}
