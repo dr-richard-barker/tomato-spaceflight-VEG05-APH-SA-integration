@@ -3,6 +3,7 @@
 **Cross-mission meta-integration of two ISS tomato RNA-seq studies, establishing that the
 spaceflight transcriptome resembles a salicylic-acid–deficient state.**
 
+[![reproduce](https://github.com/dr-richard-barker/tomato-spaceflight-VEG05-APH-SA-integration/actions/workflows/ci.yml/badge.svg)](https://github.com/dr-richard-barker/tomato-spaceflight-VEG05-APH-SA-integration/actions/workflows/ci.yml)
 [![DOI](https://zenodo.org/badge/1281717842.svg)](https://zenodo.org/badge/latestdoi/1281717842)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/)
